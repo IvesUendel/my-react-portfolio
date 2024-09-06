@@ -13,7 +13,7 @@ import { SiCsharp } from "react-icons/si";
 
 const Knowledge = () => {
   return (
-    <section className={styles.container}>
+    <section className={styles.container} id="skills">
       <h2 className={styles.title}>Knowledge</h2>
       <div className={styles.content}>
         <FaHtml5 className={styles.icons} title="HTML 5" />
